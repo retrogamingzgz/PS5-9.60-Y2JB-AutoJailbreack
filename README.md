@@ -10,3 +10,7 @@ AutoJailbreack de PS5 en versión 9.60
 4-una vez la consola actualizada, vamos a ajustes-sistema-software del sistema-copia de seguridad y restauracion-restablecer tu ps5
 
 5-restablecemos y una vez iniciada, ejecutamos la aplicación de YouTube y automáticamente habilitara todo el jailbreak
+
+
+
+https://archive.org/download/y-2-jb-autoloader-v-0.2.2-fw-9.60.7z/Y2JB%20Autoloader%20v0.2.2%20Fw%209.60.7z
