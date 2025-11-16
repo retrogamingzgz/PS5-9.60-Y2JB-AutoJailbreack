@@ -13,4 +13,4 @@ AutoJailbreack de PS5 en versión 9.60
 
 
 
-https://archive.org/download/y-2-jb-autoloader-v-0.2.2-fw-9.60.7z/Y2JB%20Autoloader%20v0.2.2%20Fw%209.60.7z
+https://archive.org/download/y-2-jb-autoloader-v-0.2.2-fw-9.60.7z/Y2JB%20Autoloader%20v0.3%20Fw%209.60.7z
